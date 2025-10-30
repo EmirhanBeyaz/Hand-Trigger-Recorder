@@ -1,6 +1,6 @@
 # Hand Trigger Recorder
 
-A simple **AI-free**, open-source tool that records video automatically when a **hand** appears in front of the camera.
+A simple **Free**, open-source tool that records video automatically when a **hand** appears in front of the camera.
 
 ---
 
@@ -18,3 +18,4 @@ A simple **AI-free**, open-source tool that records video automatically when a *
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
+
